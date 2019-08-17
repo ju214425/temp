@@ -1,0 +1,424 @@
+[IMGINFO] width : 80, height : 360, channel : 3
+[IMGINFO] width : 80, height : 360, channel : 3
+[IMGINFO] width : 80, height : 360, channel : 3
+[IMGINFO] width : 80, height : 360, channel : 3
+input tensor (channels, height, width) = 1,360,80
+[WARN]		Error counts : 12803/460800
+layer1 out tensor (channels, height, width) = 16,180,40
+[WARN]		Error counts : 7008/230400
+layer2 out tensor (channels, height, width) = 32,90,20
+[WARN]		Error counts : 6976/115200
+layer3 out tensor (channels, height, width) = 64,45,10
+[WARN]		Error counts : 6912/57600
+layer4 out tensor (channels, height, width) = 128,22,5
+[WARN]		Error counts : 6656/28160
+layer5 out tensor (channels, height, width) = 256,11,2
+[WARN]		Error counts : 1080/1980
+classification layer out tensor (channels, height, width) = 90,1,1
+total processing time : 0.843763 sec
+10left	probability : 0.783184
+10right	probability : 0.732723
+11left	probability : 1.279323
+11right	probability : 1.313312
+12left	probability : 0.660065
+12right	probability : 1.192442
+13left	probability : 1.376498
+13right	probability : 0.847867
+14left	probability : 1.245755
+14right	probability : 1.400829
+15left	probability : 0.884515
+15right	probability : 0.903425
+16left	probability : 1.314263
+16right	probability : 0.996735
+17left	probability : 1.456017
+17right	probability : 1.034046
+18left	probability : 1.215754
+18right	probability : 1.077676
+19left	probability : 1.492249
+19right	probability : 1.207949
+1left	probability : 1.152320
+1right	probability : 1.214086
+20left	probability : 1.116827
+20right	probability : 0.590117
+21left	probability : 1.226339
+21right	probability : 0.950780
+22left	probability : 1.430694
+22right	probability : 1.232739
+23left	probability : 1.442337
+23right	probability : 1.175225
+24left	probability : 1.021960
+24right	probability : 1.211346
+25left	probability : 1.230655
+25right	probability : 1.113382
+26left	probability : 1.344271
+26right	probability : 1.142457
+27left	probability : 1.342237
+27right	probability : 0.599077
+28left	probability : 1.233294
+28right	probability : 1.430541
+29left	probability : 1.515851
+29right	probability : 0.866963
+2left	probability : 1.412873
+2right	probability : 1.044925
+30left	probability : 1.132488
+30right	probability : 1.247613
+31left	probability : 1.450563
+31right	probability : 1.240439
+32left	probability : 1.162198
+32right	probability : 1.238153
+33left	probability : 0.901049
+33right	probability : 1.047702
+34left	probability : 1.187829
+34right	probability : 0.946822
+35left	probability : 1.180872
+35right	probability : 1.014575
+36left	probability : 0.967271
+36right	probability : 1.029871
+37left	probability : 1.070958
+37right	probability : 1.369910
+38left	probability : 1.163924
+38right	probability : 1.402862
+39left	probability : 0.467911
+39right	probability : 1.081288
+3left	probability : 1.187544
+3right	probability : 1.142942
+40left	probability : 1.310539
+40right	probability : 1.205343
+41left	probability : 1.359004
+41right	probability : 1.338839
+42left	probability : 1.943413
+42right	probability : 0.637305
+43left	probability : 1.208793
+43right	probability : 1.262604
+44left	probability : 1.296334
+44right	probability : 1.112869
+45left	probability : 1.622802
+45right	probability : 0.764582
+46left	probability : 0.971684
+46right	probability : 1.314545
+5left	probability : 1.452488
+5right	probability : 1.035784
+6left	probability : 0.802093
+6right	probability : 1.568364
+7left	probability : 0.467880
+7right	probability : 1.551106
+8left	probability : 0.738118
+8right	probability : 1.237167
+9left	probability : 1.080554
+9right	probability : 1.366443
+[MAX](70)	42left : 1.943413
+input tensor (channels, height, width) = 1,360,80
+[WARN]		Error counts : 18656/460800
+layer1 out tensor (channels, height, width) = 16,180,40
+[WARN]		Error counts : 7008/230400
+layer2 out tensor (channels, height, width) = 32,90,20
+[WARN]		Error counts : 6976/115200
+layer3 out tensor (channels, height, width) = 64,45,10
+[WARN]		Error counts : 6912/57600
+layer4 out tensor (channels, height, width) = 128,22,5
+[WARN]		Error counts : 6656/28160
+layer5 out tensor (channels, height, width) = 256,11,2
+[WARN]		Error counts : 1080/1980
+classification layer out tensor (channels, height, width) = 90,1,1
+total processing time : 0.835171 sec
+10left	probability : 0.829543
+10right	probability : 0.849164
+11left	probability : 1.291499
+11right	probability : 1.291693
+12left	probability : 0.634181
+12right	probability : 1.223122
+13left	probability : 1.553287
+13right	probability : 0.814243
+14left	probability : 1.269608
+14right	probability : 1.406683
+15left	probability : 0.879964
+15right	probability : 0.918899
+16left	probability : 1.279584
+16right	probability : 1.036298
+17left	probability : 1.467299
+17right	probability : 0.998458
+18left	probability : 1.174246
+18right	probability : 1.025332
+19left	probability : 1.481668
+19right	probability : 1.211827
+1left	probability : 1.139329
+1right	probability : 1.286927
+20left	probability : 1.005624
+20right	probability : 0.573463
+21left	probability : 1.240830
+21right	probability : 0.855786
+22left	probability : 1.455814
+22right	probability : 1.193003
+23left	probability : 1.457518
+23right	probability : 1.237321
+24left	probability : 1.061452
+24right	probability : 1.258370
+25left	probability : 1.222459
+25right	probability : 1.033441
+26left	probability : 1.311244
+26right	probability : 1.163312
+27left	probability : 1.385653
+27right	probability : 0.641381
+28left	probability : 1.191038
+28right	probability : 1.409886
+29left	probability : 1.550644
+29right	probability : 0.866803
+2left	probability : 1.380989
+2right	probability : 1.038134
+30left	probability : 1.102152
+30right	probability : 1.345641
+31left	probability : 1.498329
+31right	probability : 1.248830
+32left	probability : 1.139750
+32right	probability : 1.296430
+33left	probability : 0.821224
+33right	probability : 1.047345
+34left	probability : 1.139583
+34right	probability : 1.074807
+35left	probability : 1.142118
+35right	probability : 1.053062
+36left	probability : 0.993652
+36right	probability : 1.021215
+37left	probability : 1.092540
+37right	probability : 1.369857
+38left	probability : 1.320118
+38right	probability : 1.389878
+39left	probability : 0.604748
+39right	probability : 1.104012
+3left	probability : 1.147525
+3right	probability : 1.182394
+40left	probability : 1.346509
+40right	probability : 1.239106
+41left	probability : 1.348467
+41right	probability : 1.308190
+42left	probability : 1.918527
+42right	probability : 0.557754
+43left	probability : 1.146589
+43right	probability : 1.257614
+44left	probability : 1.295807
+44right	probability : 1.079187
+45left	probability : 1.607940
+45right	probability : 0.567434
+46left	probability : 0.953832
+46right	probability : 1.291185
+5left	probability : 1.488789
+5right	probability : 0.947868
+6left	probability : 0.777462
+6right	probability : 1.562621
+7left	probability : 0.517463
+7right	probability : 1.578926
+8left	probability : 0.655005
+8right	probability : 1.231562
+9left	probability : 1.023710
+9right	probability : 1.372735
+[MAX](70)	42left : 1.918527
+input tensor (channels, height, width) = 1,360,80
+[WARN]		Error counts : 20266/460800
+layer1 out tensor (channels, height, width) = 16,180,40
+[WARN]		Error counts : 7008/230400
+layer2 out tensor (channels, height, width) = 32,90,20
+[WARN]		Error counts : 6976/115200
+layer3 out tensor (channels, height, width) = 64,45,10
+[WARN]		Error counts : 6912/57600
+layer4 out tensor (channels, height, width) = 128,22,5
+[WARN]		Error counts : 6656/28160
+layer5 out tensor (channels, height, width) = 256,11,2
+[WARN]		Error counts : 1080/1980
+classification layer out tensor (channels, height, width) = 90,1,1
+total processing time : 0.803859 sec
+10left	probability : 0.892256
+10right	probability : 0.754326
+11left	probability : 1.284215
+11right	probability : 1.279871
+12left	probability : 0.714435
+12right	probability : 1.241868
+13left	probability : 1.518935
+13right	probability : 0.798902
+14left	probability : 1.286376
+14right	probability : 1.395987
+15left	probability : 0.881178
+15right	probability : 0.849446
+16left	probability : 1.326846
+16right	probability : 1.043098
+17left	probability : 1.490465
+17right	probability : 1.033784
+18left	probability : 1.160655
+18right	probability : 1.024993
+19left	probability : 1.527102
+19right	probability : 1.240681
+1left	probability : 1.094501
+1right	probability : 1.302305
+20left	probability : 1.068408
+20right	probability : 0.505030
+21left	probability : 1.244379
+21right	probability : 0.976782
+22left	probability : 1.450375
+22right	probability : 1.196054
+23left	probability : 1.440474
+23right	probability : 1.215394
+24left	probability : 1.060067
+24right	probability : 1.177705
+25left	probability : 1.217669
+25right	probability : 1.037845
+26left	probability : 1.276324
+26right	probability : 1.112496
+27left	probability : 1.358627
+27right	probability : 0.571769
+28left	probability : 1.182119
+28right	probability : 1.416088
+29left	probability : 1.538077
+29right	probability : 0.816642
+2left	probability : 1.373791
+2right	probability : 1.096914
+30left	probability : 1.151444
+30right	probability : 1.313054
+31left	probability : 1.473837
+31right	probability : 1.232960
+32left	probability : 1.153007
+32right	probability : 1.290064
+33left	probability : 0.826688
+33right	probability : 1.041161
+34left	probability : 1.152940
+34right	probability : 1.035361
+35left	probability : 1.206479
+35right	probability : 1.037050
+36left	probability : 1.026705
+36right	probability : 1.072499
+37left	probability : 1.132566
+37right	probability : 1.369855
+38left	probability : 1.158367
+38right	probability : 1.403365
+39left	probability : 0.495201
+39right	probability : 1.043221
+3left	probability : 1.131345
+3right	probability : 1.119631
+40left	probability : 1.354935
+40right	probability : 1.175629
+41left	probability : 1.338866
+41right	probability : 1.282208
+42left	probability : 1.819264
+42right	probability : 0.482584
+43left	probability : 1.194291
+43right	probability : 1.221504
+44left	probability : 1.297358
+44right	probability : 1.108106
+45left	probability : 1.606118
+45right	probability : 0.610617
+46left	probability : 0.966300
+46right	probability : 1.292431
+5left	probability : 1.441778
+5right	probability : 0.963721
+6left	probability : 0.794571
+6right	probability : 1.593838
+7left	probability : 0.506901
+7right	probability : 1.593518
+8left	probability : 0.788013
+8right	probability : 1.247445
+9left	probability : 1.080732
+9right	probability : 1.379910
+[MAX](70)	42left : 1.819264
+input tensor (channels, height, width) = 1,360,80
+[WARN]		Error counts : 19233/460800
+layer1 out tensor (channels, height, width) = 16,180,40
+[WARN]		Error counts : 7008/230400
+layer2 out tensor (channels, height, width) = 32,90,20
+[WARN]		Error counts : 6976/115200
+layer3 out tensor (channels, height, width) = 64,45,10
+[WARN]		Error counts : 6912/57600
+layer4 out tensor (channels, height, width) = 128,22,5
+[WARN]		Error counts : 6656/28160
+layer5 out tensor (channels, height, width) = 256,11,2
+[WARN]		Error counts : 1080/1980
+classification layer out tensor (channels, height, width) = 90,1,1
+total processing time : 0.803764 sec
+10left	probability : 0.773525
+10right	probability : 0.758487
+11left	probability : 1.285283
+11right	probability : 1.320239
+12left	probability : 0.613351
+12right	probability : 1.192066
+13left	probability : 1.376409
+13right	probability : 0.859320
+14left	probability : 1.282430
+14right	probability : 1.402412
+15left	probability : 0.924487
+15right	probability : 0.877475
+16left	probability : 1.240992
+16right	probability : 0.998169
+17left	probability : 1.435015
+17right	probability : 1.045699
+18left	probability : 1.190576
+18right	probability : 1.062641
+19left	probability : 1.513934
+19right	probability : 1.207536
+1left	probability : 1.127205
+1right	probability : 1.225647
+20left	probability : 1.066963
+20right	probability : 0.535842
+21left	probability : 1.229708
+21right	probability : 0.936737
+22left	probability : 1.405092
+22right	probability : 1.207795
+23left	probability : 1.446446
+23right	probability : 1.151979
+24left	probability : 1.006506
+24right	probability : 1.211046
+25left	probability : 1.256172
+25right	probability : 1.076000
+26left	probability : 1.327958
+26right	probability : 1.135230
+27left	probability : 1.339723
+27right	probability : 0.600654
+28left	probability : 1.202569
+28right	probability : 1.403298
+29left	probability : 1.495966
+29right	probability : 0.845503
+2left	probability : 1.387483
+2right	probability : 1.036050
+30left	probability : 1.149278
+30right	probability : 1.264762
+31left	probability : 1.559835
+31right	probability : 1.243142
+32left	probability : 1.222936
+32right	probability : 1.187780
+33left	probability : 0.839609
+33right	probability : 1.040014
+34left	probability : 1.198583
+34right	probability : 0.951760
+35left	probability : 1.146497
+35right	probability : 1.011036
+36left	probability : 0.984483
+36right	probability : 1.045719
+37left	probability : 1.108938
+37right	probability : 1.369847
+38left	probability : 1.182675
+38right	probability : 1.404533
+39left	probability : 0.567787
+39right	probability : 1.101206
+3left	probability : 1.165185
+3right	probability : 1.151476
+40left	probability : 1.355790
+40right	probability : 1.247971
+41left	probability : 1.377129
+41right	probability : 1.308390
+42left	probability : 1.881778
+42right	probability : 0.570724
+43left	probability : 1.186916
+43right	probability : 1.240811
+44left	probability : 1.297141
+44right	probability : 1.098019
+45left	probability : 1.596551
+45right	probability : 0.704805
+46left	probability : 0.949643
+46right	probability : 1.318871
+5left	probability : 1.463523
+5right	probability : 0.973528
+6left	probability : 0.775128
+6right	probability : 1.593739
+7left	probability : 0.478913
+7right	probability : 1.567554
+8left	probability : 0.645344
+8right	probability : 1.257212
+9left	probability : 1.044602
+9right	probability : 1.372675
+[MAX](70)	42left : 1.881778
