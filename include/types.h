@@ -7,15 +7,15 @@
 
 typedef struct _tensor
 {
-	cl_float *data;     //c * h * w
+	cl_double *data;     //c * h * w
 	cl_int c,h,w;
 
 }tensor;
 
 typedef struct _conv2d_filter
 {
-	cl_float *window;   //out_channels * in_channels * filter_size * filter*size
-	cl_float *bias; // out_chaneels
+	cl_double *window;   //out_channels * in_channels * filter_size * filter*size
+	cl_double *bias; // out_chaneels
 	cl_int size,input_ch,output_ch;
 
 }conv2d_filter;
